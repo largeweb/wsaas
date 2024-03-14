@@ -1,0 +1,3 @@
+node V20
+npx create-next-app@latest
+npx create-expo-app@latest
